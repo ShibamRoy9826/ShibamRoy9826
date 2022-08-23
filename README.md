@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShibamRoy9826
 - 👀 I’m interested in Python desktop applications, Machine learning, Content Writing.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Android development
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on Desktop Applications.
 - 📫 You can reach me through royshibam9826@gmail.com.
 
 Hi, I am a student of class 9 of Umakanta Academy English Medium, I am from Tripura,Agartala,Santipara.
