@@ -15,8 +15,5 @@
 [![Python,Tensorflow, Scikit-learn, C++, HTML, CSS, Javascript, Django, Tailwind, Qt](https://skillicons.dev/icons?i=python,tensorflow,sklearn,cpp,html,css,javascript,django,tailwind,qt)](https://skillicons.dev)
 
 
-## Some intro in breif
-Hi, I am a student of class 10 of Umakanta Academy English Medium School, I am from Tripura,Agartala,Santipara.
-Since childhood, had a really great interest in computers, (though never used to like computer classes at school), slowly as i grew up, my interest in computers increased, and now i am literally in love with computers and computer programming!, i know C++ and Python, and some basic web development(though I dont like javascript..).
-I can write pretty much good paragraphs and articles, that's not an hobbie just something i can do.Besides these i play guitar, and Love doing mathematics.
-But, the most important of all is my dream, I want to become a great data scientist one day , and I will become one for sure!
+## Some intro in brief 
+Hi, I am Shibam Roy, my age is 16 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Playing Guitar, Studies, reading e-books and articles, and that's all.Telling about my goal in life, i want to be a Great Data Scientist one day! I know Python ,C++,HTML,CSS,and a little bit of javascript.I live in India,Tripura,Agartala,Santipara,Near Club road. Have a nice day:)
