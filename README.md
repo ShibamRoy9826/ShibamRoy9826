@@ -12,7 +12,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Python, C++, HTML, CSS, Javascript, Data Science,Django](https://skillicons.dev/icons?i=python,c++,html,css,javascript,datascience,django)](https://skillicons.dev)
+[![Python,Tensorflow, Scikit-learn, C++, HTML, CSS, Javascript, Django, Tailwind, Qt](https://skillicons.dev/icons?i=python,tensorflow,sklearn,cpp,html,css,javascript,django,tailwind,qt)](https://skillicons.dev)
 
 
 ## Some intro in breif
