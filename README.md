@@ -1,4 +1,13 @@
+<div align="center">
 
+
+[![Hello World, I'm Shibam!](res/background.gif)](https://github.com/shibamroy9826)
+
+Background GIF by [Bomb998](https://in.pinterest.com/pin/694328467578814579/) on [Pinterest](https://www.pinterest.com/).
+
+
+  </div>
+  
 ## About Myself
 
 - 👋 Hi, I’m @ShibamRoy9826
