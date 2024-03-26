@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="res/background.gif" width="50" height="50" alt="Hello World! I am Shibam"/>
+<img src="res/background.gif" width="60%" height="40%" alt="Hello World! I am Shibam"/>
 
 Background GIF by [Bomb998](https://in.pinterest.com/pin/694328467578814579/) on [Pinterest](https://www.pinterest.com/).
 
