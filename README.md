@@ -56,6 +56,6 @@
 
 ## Self Introduction In Brief 
 
-Hi, I am Shibam Roy, my age is 16 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Playing Guitar, Studies, reading e-books and articles, and that's all.Telling about my goal in life, i want to be a Great Data Scientist one day! I know Python ,C++,HTML,CSS,and a little bit of javascript.I live in India,Tripura,Agartala,Santipara. Have a nice day:)
+Hi, I am Shibam Roy, my age is 17 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Playing Guitar, Studies, reading e-books and articles, and that's all.Telling about my goal in life, i want to be a Great Data Scientist one day! I know Python ,C++,HTML,CSS,and a little bit of javascript.I live in India,Tripura,Agartala,Santipara. Have a nice day:)
 
 </div>
