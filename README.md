@@ -22,8 +22,8 @@
 
 - 👋 Hi, I’m @ShibamRoy9826
 - 👀 I’m interested in desktop applications, Machine learning and Web Development.
-- 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on Logic related problems.
+- 🌱 I’m currently learning Neural Networks.
+- 💞️ I’m looking to collaborate on Linux applications.
 - 📫 You can reach me through royshibam9826@gmail.com. or https://shibamroy9826.github.io
 
 <br>
@@ -56,6 +56,7 @@
 
 ## Self Introduction In Brief 
 
-Hi, I am Shibam Roy, my age is 17 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Playing Guitar, Studies, reading e-books and articles, and that's all.Telling about my goal in life, i want to be a Great Data Scientist one day! I know Python ,C++,HTML,CSS,and a little bit of javascript.I live in India,Tripura,Agartala,Santipara. Have a nice day:)
+Hi, I am Shibam Roy, my age is 17 and I love data science. I use Arch(btw) with qtile and hyprland, and I use Neovim(with NvChad) as my daily code editor.
+I would love to contribute to any FOSS project that matches my tech stack. Besides Programming, I love to watch Anime, play or listen to music, and reading e-books and articles, and that's pretty much all about myself. Have a nice day :)
 
 </div>
