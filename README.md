@@ -22,7 +22,7 @@
 
 - 👋 Hi, I’m @ShibamRoy9826
 - 👀 I’m interested in desktop applications, Machine learning and Web Development.
-- 🌱 I’m currently learning Neural Networks.
+- 🌱 I’m currently learning Neural Networks and Rust.
 - 💞️ I’m looking to collaborate on Linux applications.
 - 📫 You can reach me through royshibam9826@gmail.com. or https://shibamroy9826.github.io
 
@@ -31,19 +31,19 @@
   
 ## 💡 A Quote:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Live%20as%20if%20you%20were%20to%20die%20tommorrow%2C%20Learn%20as%20if%20you%20were%20to%20live%20forever&author=Mahatma%20Gandhi)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## 💻 My Tech Stack:
 
-[![Python,Tensorflow, Scikit-learn, C++, HTML, CSS, Javascript, Django, Tailwind, Qt](https://skillicons.dev/icons?i=python,tensorflow,sklearn,cpp,html,css,javascript,django,tailwind,qt)](https://skillicons.dev)
+[![Linux,Neovim,vim,raspberrypi,Git,Github,Python,Tensorflow, Scikit-learn, C++, HTML, CSS, Javascript, Django, Tailwind, Qt](https://skillicons.dev/icons?i=linux,neovim,vim,raspberrypi,git,github,python,tensorflow,sklearn,cpp,html,css,javascript,django,tailwind,qt)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shibamroy9826&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibamroy9826&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shibamroy9826&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibamroy9826&layout=compact&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
 
